@@ -24,3 +24,7 @@
 - Reorganizing DBC and DBF file conversion
 - Supports to DBF7 via dbfread package
 - Fix lower or upper extension on conversions
+
+## v0.4.7
+- Reorganizing metadata extraction from ftp lines 
+- Customized regular expressions for metadata extraction
